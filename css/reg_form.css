@@ -1,0 +1,119 @@
+* {margin:0; padding:0;}
+
+#container1{margin:0px auto;
+padding:0; 
+width:950px;
+	
+}
+
+#mid_right{
+	height: 450px;
+	width:44.8%;
+	float:right;
+    background-color:rgba(0,0,0,0.7);
+	margin-top:60px;
+	margin-right:-100px;
+	
+}
+#login_mid_right{
+	height: 300px;
+	width:44.8%;
+	float:right;
+    background-color:rgba(0,0,0,0.7);
+	margin-top:60px;
+	margin-right:-100px;
+	
+}
+
+#name_password {
+	
+    height: 20px;
+    padding: 5px;
+	
+	margin-bottom: 12px;
+	
+}
+ #name_password input {
+	height: 30px;
+	padding: 0px 5px;
+	margin-bottom: 11px;
+	width: 29.5%;
+}
+#register #click {
+    padding: 8px 34px;
+    background:  #00bcd5;
+    border: none;
+	border-radius:0px;
+	cursor:pointer;
+    color: white;
+	font-size:18px;
+}
+
+#register #click:hover{
+	background:#f14b05;
+	color:#FFF;
+	transition: all .5s ease;
+}
+#login #click {
+    padding: 8px 75px;
+    background: #00d574;
+    border: none;
+    border-radius: 0px;
+    cursor: pointer;
+    color: white;
+    font-size: 18px;
+    margin-top: 16px;
+}
+#login #click:hover{
+	background:#f14b05;
+	color:#FFF;
+	transition: all .5s ease;
+}
+#none{
+	text-decoration: none;
+	color:orange;
+
+}
+
+#none:hover{
+	text-decoration: underline;
+
+}
+#other {
+	
+    height: 20px;
+    padding: 7px;
+	margin-bottom: 12px;
+	margin-top: 15px;
+}
+#other input {
+	height: 30px;
+	padding: 0px 6px;
+	width: 63%;
+}
+#date {
+	
+    height: 20px;
+    padding: 7px;
+	margin-bottom: 12px;
+	
+}
+#date input {
+	height: 30px;
+	padding: 0px 6px;
+	width: 63%;
+}
+#birthday {
+	
+	padding: 0px 104px;
+	font-size: 18px;
+	color:white;
+}
+
+#header_reg {
+	height: 30px;
+	width:100%;
+    color:white;
+	opacity:.7
+}
+
